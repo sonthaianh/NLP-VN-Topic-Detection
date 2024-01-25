@@ -1,0 +1,21 @@
+Thử nghiệm dùng trí tuệ nhân tạo dự báo giá nhà
+TP HCMNhóm nhà khoa học Việt thu thập gần 200 dữ liệu về nhà ở, đưa vào mô hình máy học nhằm dự đoán giá nhà sát với thị trường.
+
+Nghiên cứu này được báo cáo tại hội nghị khoa học quốc tế về đô thị hóa châu Á (AUC2024) sáng 12/1 do Đại học Việt Đức tổ chức. Đại diện nhóm nghiên cứu, TS Trần Hồng Ngọc, giảng viên ngành khoa học máy tính, khoa kỹ thuật, Đại học Việt Đức cho biết hiện nhu cầu mua nhà đất để ở và đầu tư rất lớn. Để tham khảo giá hiện có nhiều kênh thông tin nhưng khó để để xác định giá trị thật ngôi nhà. Nhóm nghiên cứu mong muốn xây dựng mô hình để đưa ra các dự báo sát thực tế nhất.
+
+Một dự án chung cư tại TP HCM đang bán hàng trong tháng 1/2024. Ảnh: Nguyên Tiêu
+Một dự án chung cư tại TP HCM đang bán hàng trong tháng 1/2024. Ảnh: Nguyên Tiêu
+
+Các chuyên gia đã sử dụng gần 200 dữ liệu về nhà tại quận Gò Vấp, TP HCM. Nhóm dùng kiến thức và kinh nghiệm của mình xử lý, làm sạch sạch dữ liệu. Một số trường hợp chuyên gia trực tiếp đến xem, thẩm định giá trị ngôi nhà để đưa vào cơ sở dữ liệu.
+
+Bộ dữ liệu sau khi làm sạch chia thành 23 thuộc tính, thể hiện các đặc điểm của ngôi nhà như vị trí, diện tích, số tầng, số phòng, năm xây dựng, loại nhà, thiết kế nội thất, ngoại thất, tình trạng sửa chữa, các tiện ích xung quanh...
+
+Dữ liệu được nhóm, đưa vào mô hình máy học xử lý để đưa ra dự đoán giá nhà với độ chính xác 98%. "Hiện bộ dữ liệu đang hạn chế về độ lớn nên sắp tới nhóm sẽ thu thập thêm dữ liệu nhà phố tại TP Thủ Đức, Bình Dương...", TS Ngọc nói. Nhóm cho rằng, giá trị căn nhà sẽ thay đổi khi có sự biến động các tiện ích xung quanh như đường sá, cầu cống... nên cần cập nhật dữ liệu liên tục cho mô hình máy học để giá nhà luôn sát thực tế.
+
+Người dùng khi nhập các thông tin mô tả ngôi nhà với 23 thuộc tính, hệ thống AI sẽ đưa ra dự báo giá. Tuy nhiên, TS Ngọc cho biết, nghiên cứu mới thực hiện trong 6 tháng và cần thời gian xây dựng website làm nền tảng sử dụng mô hình AI. Ngoài ra, mô hình AI của nhóm chưa có các dữ liệu về quy hoạch, sổ đỏ... Đây được coi là một chỉ số quan trọng để xác định tính pháp lý cũng như giá trị của căn nhà.
+
+Theo TS Ngọc việc xây dựng mô hình AI dự báo giá nhà giúp quản lý minh bạch trong phát triển đô thị bền vững, thông minh. Tuy nhiên, mô hình máy học hoạt động chính xác do nguồn dữ liệu đầu vào phải đúng và điều này phụ thuộc rất lớn vào sự công tâm của người quản lý.
+
+Nghiên cứu của nhóm nằm trong 40 bài tham luận của hơn 100 học giả trong và ngoài nước tham dự AUC. Các chủ đề tham luận gồm: chuyển đổi không gian, đô thị thông minh, hạ tầng và biến đổi khí hậu, xã hội và quản trị. Hội nghị tập trung thảo luận các vấn đề hiện tại và thách thức trong lĩnh vực nghiên cứu về đô thị hóa, đồng thời tạo điều kiện cho các nhà nghiên cứu, nhà hoạch định chính sách, các bên liên quan gặp gỡ, chia sẻ các nghiên cứu và học hỏi kinh nghiệm về các khía cạnh đa dạng của đô thị hóa ở châu Á.
+
+TS Thomas G. Aulig, Hiệu phó trường Đại học Việt Đức cho biết, hội nghị giới thiệu nhiều công trình của các nhà khoa học trẻ với những nghiên cứu phục vụ phát triển đô thị. Ông mong muốn, AUC2024 sẽ giúp cộng đồng nghiên cứu học hỏi, chia sẻ kiến thức nhằm tăng cường mạng lưới học thuật và hợp tác.
